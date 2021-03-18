@@ -1,0 +1,7 @@
+22:01:01.619 [main] INFO  Academy.ValidateTitle - navigation bar is displayed successfully
+22:01:18.372 [main] INFO  Academy.ValidateTitle - restricted User
+22:01:28.494 [main] INFO  Academy.ValidateTitle - NonRestricted User
+22:01:30.661 [main] INFO  Academy.ValidateTitle - driver is intialized
+22:01:41.294 [main] INFO  Academy.ValidateTitle - navigeted to home page
+22:01:41.342 [main] INFO  Academy.ValidateTitle - successfully validated text message
+22:04:24.188 [main] INFO  Academy.ValidateTitle - navigation bar is displayed successfully

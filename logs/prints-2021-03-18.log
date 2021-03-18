@@ -1,0 +1,6 @@
+16:21:22.149 [TestNG-tests-2] INFO  Academy.ValidateTitle - NonRestricted User
+20:34:39.203 [TestNG-tests-3] INFO  Academy.ValidateTitle - driver is intialized
+20:34:50.363 [TestNG-tests-3] INFO  Academy.ValidateTitle - navigeted to home page
+20:34:52.537 [TestNG-tests-2] INFO  Academy.ValidateTitle - restricted User
+20:34:52.829 [TestNG-tests-1] INFO  Academy.ValidateTitle - navigation bar is displayed successfully
+20:35:02.614 [TestNG-tests-2] INFO  Academy.ValidateTitle - NonRestricted User
